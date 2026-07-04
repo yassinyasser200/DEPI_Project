@@ -1,3 +1,4 @@
+
 # Drone-SAR: Person Detection for Search and Rescue using YOLOv8
 
 ## Overview
@@ -163,10 +164,8 @@ Increasing the input resolution to **1280×1280** achieved the best detection pe
 
 ---
 
-## Authors
-
-Faculty of Computers and Artificial Intelligence
-
-Helwan University
 
 Drone Search and Rescue Project
+=======
+# DEPI_Project
+
