@@ -163,6 +163,11 @@ Increasing the input resolution to **1280×1280** achieved the best detection pe
 - CUDA-enabled NVIDIA GPU (recommended)
 
 ---
+## Dataset
+
+The dataset used for training is available on Kaggle:
+
+https://www.kaggle.com/datasets/mariamaboelsoaud/drone-dataset
 
 
 Drone Search and Rescue Project
